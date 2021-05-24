@@ -1,0 +1,1 @@
+print("Mery\'s Cosmetics")
